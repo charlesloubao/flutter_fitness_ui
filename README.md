@@ -1,6 +1,11 @@
 # fitness_app_ui
 
-- [Dribbble design](https://dribbble.com/shots/16667273-My-Fitness-Mobile-App)
+Fitness app home UI implemented in Flutter inspired by this [Dribbble design](https://dribbble.com/shots/16667273-My-Fitness-Mobile-App) by Ceptari Tyas 
+
+## Screens implemented
+- Sign up page
+- Home screen
+- Stats page
 
 # Unsplash images
 
